@@ -6,14 +6,16 @@ The data I propose to visualize for my project is [Flight Delay Analysis Dataset
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
-This chart meant to show the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip as well when you hover over it.
+I’ve created two proof of concept visualizations of this data. 
+
+The first one is a stacked bar chart and this chart meant to show the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip as well as when you hover over it.
 
 [![image](images/Image1.PNG)](https://vizhub.com/josvin92/60cc4bfb0e774b46a8f4f1f1f85f61fc)
 
-[![image](images/Image2.PNG)](https://vizhub.com/josvin92/b99f060de75048bda8251559c1d0ff7b)
+The second one is a simple bar chart and it shows the Top 15 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
+Each Airport is denoted by a different color. The Airports are represented by their IATA Codes.
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
+[![image](images/Image2.PNG)](https://vizhub.com/josvin92/b99f060de75048bda8251559c1d0ff7b)
 
 ## Questions & Tasks
 
@@ -30,7 +32,13 @@ The following tasks and questions will drive the visualization and interaction d
  * The concentration of delays by 'Departure_Delay'?
  * Which airport in Origin stands out in delays?
  * Which airport in Destination stands out in delays?
- 
+
+ * What are the Top 15 Airports that have the most number of flights departing to?
+ * How many flights depart to the most popular destination? Ans = 897
+ * How many flights depart to the 15th most popular/least popular destination according to this graph? Ans = 46
+ * What is the least popular destination from this graph? Ans = CLE
+ * What is the most popular destination from this graph? Ans = ORD
+
  
 ## Sketches
 
