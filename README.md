@@ -9,7 +9,7 @@ The data I propose to visualize for my project is [Flight Delay Analysis Dataset
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 This chart meant to show the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip as well when you hover over it.
 
-[![image]('images/Image 1.png')](https://vizhub.com/josvin92/60cc4bfb0e774b46a8f4f1f1f85f61fc)
+[![image](images/Image 1.png)](https://vizhub.com/josvin92/60cc4bfb0e774b46a8f4f1f1f85f61fc)
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/josvin92/b99f060de75048bda8251559c1d0ff7b)
 
