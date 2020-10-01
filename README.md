@@ -45,8 +45,6 @@ The following tasks and questions will drive the visualization and interaction d
 ![image](images/Sketch1.jpg)
 ![image](images/Sketch2.jpg)
 
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
-
 - The first sketch is a simple bar chart and it shows the Top 10 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
 From this graph you'll be able to answer questions like What are the Top 15 Airports w.r.t departures, How many flights depart to the most popular destination, How many flights depart to the 15th most popular/least popular destination, What is the least popular destination from this graph, What is the most popular destination from this graph etc.
 
@@ -56,7 +54,7 @@ From this graph you'll be able to answer questions like What are the Top 15 Airp
 
 - The fourth chart is a stacked bar chart and it shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason.
 
-These charts should interact with each other and when we select a particualr airline carrier on the donut chart, the stacked bar chart should show the delay reasons for that particular carrier, the pie chart should show whether the delays were greater than or less than 15 mins and if so what was their share of the total delay for that carrier. Lastly, the simple bar chart should show the top destinations that this airline carrier departs to.
+These charts should interact with each other and when we select a particular airline carrier on the donut chart, the stacked bar chart should show the delay reasons for that particular carrier, the pie chart should show whether the delays were greater than or less than 15 mins and if so what was their share of the total delay for that carrier. Lastly, the simple bar chart should show the top destinations that this airline carrier departs to. Similarly, other charts should also be enabled to interact with each other. Thus, we would be able to answer questions like which airline has the highest departure delay and whether most of the delay was less than or greater than 15 mins and what were the reasons for the delay. We could also answer questions like what was the average delay over time for each airline using a time series chart. We could also answer questions like how many of the delayed flights were diverted to other airports and so on.
 
 ## Open Questions
 
