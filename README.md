@@ -42,7 +42,9 @@ The following tasks and questions will drive the visualization and interaction d
  
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
+![image](images/Sketch1.jpg)
+![image](images/Sketch2.jpg)
+
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 The first sketch is a simple bar chart and it shows the Top 10 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
@@ -56,10 +58,6 @@ The fourth chart is a stacked bar chart and it shows the "Average Delay Time and
 
 These charts should interact with each other and when we select a particualr airline carrier on the donut chart, the stacked bar chart should show the delay reasons for that particular carrier, the pie chart should show whether the delays were greater than or less than 15 mins and if so what was their share of the total delay for that carrier. Lastly, the simple bar chart should show the top destinations that this airline carrier departs to.
 
-![image](images/Sketch1.jpg)
-![image](images/Sketch2.jpg)
-
-
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+At this point I'm not sure about how to link the Aircraft codes with geographical information so that it can be represented on a map so that the airports with the most delays can be represented with bubble charts. I'm also not sure about how to implement donut or pie charts using D3.js. 
