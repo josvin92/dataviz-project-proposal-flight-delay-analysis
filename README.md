@@ -47,19 +47,19 @@ The following tasks and questions will drive the visualization and interaction d
 ![image](images/Sketch1.jpg)
 ![image](images/Sketch2.jpg)
 
-- The first sketch is a simple bar chart and it shows the Top 10 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
+1. The first sketch is a simple bar chart and it shows the Top 10 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
 From this graph you'll be able to answer questions like:
- - What are the Top 15 Airports w.r.t departures, 
- - How many flights depart to the most popular destination, 
- - How many flights depart to the 15th most popular/least popular destination, 
- - What is the least popular destination from this graph, 
- - What is the most popular destination from this graph etc.
+  - What are the Top 15 Airports w.r.t departures, 
+  - How many flights depart to the most popular destination, 
+  - How many flights depart to the 15th most popular/least popular destination, 
+  - What is the least popular destination from this graph, 
+  - What is the most popular destination from this graph etc.
 
-- The second sketch shows two pie charts showing the number of flights delayed at departure as well as at arrival. The pie chart is also divided into two slices based on whether the departure was greater than or less than 15 mins. Similar pie chart could show the proportion of delayed flights that were diverted.
+2. The second sketch shows two pie charts showing the number of flights delayed at departure as well as at arrival. The pie chart is also divided into two slices based on whether the departure was greater than or less than 15 mins. Similar pie chart could show the proportion of delayed flights that were diverted.
 
-- The third chart is a donut chart showing the airlines with the most delayed flights and the percent share of each carrier with respect to the total delay. Similar charts could be created for airports that stand out in delays w.r.t Origin/Destination.
+3. The third chart is a donut chart showing the airlines with the most delayed flights and the percent share of each carrier with respect to the total delay. Similar charts could be created for airports that stand out in delays w.r.t Origin/Destination.
 
-- The fourth chart is a stacked bar chart and it shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason.
+4. The fourth chart is a stacked bar chart and it shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason.
 
 These charts should interact with each other and when we select a particular airline carrier on the donut chart, the stacked bar chart should show the delay reasons for that particular carrier, the pie chart should show whether the delays were greater than or less than 15 mins and if so what was their share of the total delay for that carrier. Lastly, the simple bar chart should show the top destinations that this airline carrier departs to. Similarly, other charts should also be enabled to interact with each other. Thus, we would be able to answer questions like which airline has the highest departure delay and whether most of the delay was less than or greater than 15 mins and what were the reasons for the delay. We could also answer questions like what was the average delay over time for each airline using a time series chart. We could also answer questions like how many of the delayed flights were diverted to other airports and so on.
 
