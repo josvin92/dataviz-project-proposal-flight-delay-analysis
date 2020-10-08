@@ -49,11 +49,11 @@ The following tasks and questions will drive the visualization and interaction d
 
 1. The first sketch is a simple bar chart and it shows the Top 10 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
 From this graph you'll be able to answer questions like:
-  - What are the Top 15 Airports w.r.t departures, 
-  - How many flights depart to the most popular destination, 
-  - How many flights depart to the 15th most popular/least popular destination, 
-  - What is the least popular destination from this graph, 
-  - What is the most popular destination from this graph etc.
+    - What are the Top 15 Airports w.r.t departures, 
+    - How many flights depart to the most popular destination, 
+    - How many flights depart to the 15th most popular/least popular destination, 
+    - What is the least popular destination from this graph, 
+    - What is the most popular destination from this graph etc.
 
 2. The second sketch shows two pie charts showing the number of flights delayed at departure as well as at arrival. The pie chart is also divided into two slices based on whether the departure was greater than or less than 15 mins. Similar pie chart could show the proportion of delayed flights that were diverted.
 
