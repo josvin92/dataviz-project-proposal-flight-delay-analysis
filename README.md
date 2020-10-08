@@ -61,11 +61,13 @@ From this graph you'll be able to answer questions like:
 
 4. The fourth chart is a stacked bar chart and it shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason.
 
-These charts should interact with each other and when we select a particular airline carrier on the donut chart, the stacked bar chart should show the delay reasons for that particular carrier, the pie chart should show whether the delays were greater than or less than 15 mins and if so what was their share of the total delay for that carrier. Lastly, the simple bar chart should show the top destinations that this airline carrier departs to. Similarly, other charts should also be enabled to interact with each other. Thus, we would be able to answer questions like which airline has the highest departure delay and whether most of the delay was less than or greater than 15 mins and what were the reasons for the delay. We could also answer questions like what was the average delay over time for each airline using a time series chart. We could also answer questions like how many of the delayed flights were diverted to other airports and so on.
+These charts should interact with each other and when we select a particular airline carrier on the donut chart, the stacked bar chart should show the delay reasons for that particular carrier, the pie chart should show whether the delays were greater than or less than 15 mins and if so what was their share of the total delay for that carrier. It should show what percentage of those fights were diverted. Lastly, the simple bar chart should show the top destinations that this airline carrier departs to. Similarly, other charts should also be enabled to interact with each other. 
+
+Thus, we would be able to answer questions like which airline has the highest departure delay and whether most of the delay was less than or greater than 15 mins and what were the reasons for the delay. We could also answer questions like what was the average delay over time for each airline using a time series chart. We could also answer questions like how many of the delayed flights were diverted to other airports and so on.
 
 ## Open Questions
 
-At this point of time, I'm not sure about how to link the Aircraft codes with geographical information so that it can be represented on a map so that the airports with the most delays can be represented with bubble charts. I'm also not sure about how to implement donut or pie charts using D3.js. 
+At this point of time, I'm not sure about how to link  I'm also not sure about how to implement donut or pie charts using D3.js. 
 
 
 ## Schedule of Deliverables
@@ -75,3 +77,7 @@ At this point of time, I'm not sure about how to link the Aircraft codes with ge
 - October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights.
 - October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Clicking, hovering, zooming & menus/sliders should be working fine.
 - November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts.
+
+## Future Work
+
+The Aircraft codes could be linked with geographical information so that it can be represented on a map and the airports with the most delays can be represented using bubble charts.
