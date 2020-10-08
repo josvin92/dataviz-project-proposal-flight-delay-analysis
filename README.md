@@ -26,10 +26,12 @@ The following tasks and questions will drive the visualization and interaction d
  * For the B6 Carrier, what was the major cause of delay? 
  * Which type of Delay caused the Max Avg Departure Delay?How much was the delay and for which aircraft was it? 
  * For each Aircraft Carrier, what are the delays they can reduce so as to increase on-time performance?
- * The concentration of delay and non-delay both on departure and on arrival?
+ 
+ * The concentration of delay(>15 mins) and non-delay(<15 mins) both on departure('Departure_Delay') and on arrival('Arrival_Delay')?
  * The proportion of delayed flights that were diverted?
  * Are delays due to day_of_week and day_of_month?
  * The concentration of delays by 'Departure_Delay'?
+ * Which airline has the highest percentage of delayed flights?
  * Which airport in Origin stands out in delays?
  * Which airport in Destination stands out in delays?
 
@@ -48,9 +50,9 @@ The following tasks and questions will drive the visualization and interaction d
 - The first sketch is a simple bar chart and it shows the Top 10 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
 From this graph you'll be able to answer questions like What are the Top 15 Airports w.r.t departures, How many flights depart to the most popular destination, How many flights depart to the 15th most popular/least popular destination, What is the least popular destination from this graph, What is the most popular destination from this graph etc.
 
-- The second sketch shows two pie charts showing the number of flights delayed at departure as well as at arrival. The pie chart is also divided into two slices based on whether the departure was greater than or less than 15 mins.
+- The second sketch shows two pie charts showing the number of flights delayed at departure as well as at arrival. The pie chart is also divided into two slices based on whether the departure was greater than or less than 15 mins. Similar pie chart could show the proportion of delayed flights that were diverted.
 
-- The third chart is a donut chart showing the airlines with the most delayed flights and the percent share of each carrier with respect to the total delay.
+- The third chart is a donut chart showing the airlines with the most delayed flights and the percent share of each carrier with respect to the total delay. Similar charts could be created for airports that stand out in delays w.r.t Origin/Destination.
 
 - The fourth chart is a stacked bar chart and it shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason.
 
@@ -63,7 +65,8 @@ At this point of time, I'm not sure about how to link the Aircraft codes with ge
 
 ## Schedule of Deliverables
 
-October 14th - Create the pie charts showing the number of flights delayed at departure as well as at arrival.
-October 21st - Create the donut chart showing the airlines with the most delayed flights.
-October 28th - Add all these charts to a single dashboard and enable interaction between any two charts. clicking, hovering, zooming & menus should be working fine.
-November 4th - Enable interaction between the remaining charts.
+October 7th - A simple bar chart showing the "Top 10 Airports with respect to Origin/Departures" has been completed. Also, the stacked bar chart showing the "Average Delay Time and Delay Reason for various airline carriers" has been completed. 
+October 14th - Create two pie charts showing the number of flights delayed at departure as well as at arrival and another pie chart showing the proportion of delayed flights that were diverted.
+October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights.
+October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Clicking, hovering, zooming & menus/sliders should be working fine.
+November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts.
