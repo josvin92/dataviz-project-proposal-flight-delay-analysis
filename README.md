@@ -59,3 +59,11 @@ These charts should interact with each other and when we select a particular air
 ## Open Questions
 
 At this point of time, I'm not sure about how to link the Aircraft codes with geographical information so that it can be represented on a map so that the airports with the most delays can be represented with bubble charts. I'm also not sure about how to implement donut or pie charts using D3.js. 
+
+
+## Schedule of Deliverables
+
+October 14th - Create the pie charts showing the number of flights delayed at departure as well as at arrival.
+October 21st - Create the donut chart showing the airlines with the most delayed flights.
+October 28th - Add all these charts to a single dashboard and enable interaction between any two charts. clicking, hovering, zooming & menus should be working fine.
+November 4th - Enable interaction between the remaining charts.
