@@ -67,7 +67,7 @@ Thus, we would be able to answer questions like which airline has the highest de
 
 ## Open Questions
 
-At this point of time, I'm not sure about how to link  I'm also not sure about how to implement donut or pie charts using D3.js. 
+At this point of time, I'm not sure about how to implement donut or pie charts using D3.js. 
 
 
 ## Schedule of Deliverables
