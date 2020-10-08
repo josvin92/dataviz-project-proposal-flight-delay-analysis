@@ -48,7 +48,12 @@ The following tasks and questions will drive the visualization and interaction d
 ![image](images/Sketch2.jpg)
 
 - The first sketch is a simple bar chart and it shows the Top 10 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
-From this graph you'll be able to answer questions like What are the Top 15 Airports w.r.t departures, How many flights depart to the most popular destination, How many flights depart to the 15th most popular/least popular destination, What is the least popular destination from this graph, What is the most popular destination from this graph etc.
+From this graph you'll be able to answer questions like:
+-- What are the Top 15 Airports w.r.t departures, 
+-- How many flights depart to the most popular destination, 
+-- How many flights depart to the 15th most popular/least popular destination, 
+-- What is the least popular destination from this graph, 
+-- What is the most popular destination from this graph etc.
 
 - The second sketch shows two pie charts showing the number of flights delayed at departure as well as at arrival. The pie chart is also divided into two slices based on whether the departure was greater than or less than 15 mins. Similar pie chart could show the proportion of delayed flights that were diverted.
 
@@ -65,8 +70,8 @@ At this point of time, I'm not sure about how to link the Aircraft codes with ge
 
 ## Schedule of Deliverables
 
-October 7th - A simple bar chart showing the "Top 10 Airports with respect to Origin/Departures" has been completed. Also, the stacked bar chart showing the "Average Delay Time and Delay Reason for various airline carriers" has been completed. 
-October 14th - Create two pie charts showing the number of flights delayed at departure as well as at arrival and another pie chart showing the proportion of delayed flights that were diverted.
-October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights.
-October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Clicking, hovering, zooming & menus/sliders should be working fine.
-November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts.
+- October 7th - A simple bar chart showing the "Top 10 Airports with respect to Origin/Departures" has been completed. Also, the stacked bar chart showing the "Average Delay Time and Delay Reason for various airline carriers" has been completed. 
+- October 14th - Create two pie charts showing the number of flights delayed at departure as well as at arrival and another pie chart showing the proportion of delayed flights that were diverted.
+- October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights.
+- October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Clicking, hovering, zooming & menus/sliders should be working fine.
+- November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts.
