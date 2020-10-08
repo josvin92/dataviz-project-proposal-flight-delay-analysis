@@ -65,6 +65,10 @@ These charts should interact with each other and when we select a particular air
 
 Thus, we would be able to answer questions like which airline has the highest departure delay and whether most of the delay was less than or greater than 15 mins and what were the reasons for the delay. We could also answer questions like what was the average delay over time for each airline using a time series chart. We could also answer questions like how many of the delayed flights were diverted to other airports and so on.
 
+## Ideas for interaction
+
+Selecting, hovering(tooltip), zooming/brushing, linked highlighting, shared navigation as well as menus/sliders could be incorporated into the afore mentioned charts so as to provide interaction between the various charts. One example would be brushing or selecting a bunch of airlines showing the average delay and delay reason and the corresponding charts showing which airline had the highest delay and what percentage of that was delayed by less than 15 mins and what percentage was delayed by more than 15 mins as well as what day or month had the maximum delay.
+
 ## Open Questions
 
 At this point of time, I'm not sure about how to implement donut or pie charts using D3.js. 
@@ -75,7 +79,7 @@ At this point of time, I'm not sure about how to implement donut or pie charts u
 - October 7th - A simple bar chart showing the "Top 10 Airports with respect to Origin/Departures" has been completed. Also, the stacked bar chart showing the "Average Delay Time and Delay Reason for various airline carriers" has been completed. 
 - October 14th - Create two pie charts showing the number of flights delayed at departure as well as at arrival and another pie chart showing the proportion of delayed flights that were diverted.
 - October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights.
-- October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Clicking, hovering, zooming & menus/sliders should be working fine.
+- October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Selecting, hovering, zooming/brushing, linked highlighting, shared navigation & menus/sliders should be working fine.
 - November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts.
 
 ## Future Work
