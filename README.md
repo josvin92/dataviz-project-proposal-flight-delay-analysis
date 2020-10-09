@@ -77,10 +77,10 @@ At this point of time, I'm not sure about how to implement donut or pie charts u
 ## Schedule of Deliverables
 
 - October 7th - A simple bar chart showing the "Top 10 Airports with respect to Origin/Departures" has been completed. Also, the stacked bar chart showing the "Average Delay Time and Delay Reason for various airline carriers" has been completed. 
-- October 14th - Create two pie charts showing the number of flights delayed at departure as well as at arrival and another pie chart showing the proportion of delayed flights that were diverted.
-- October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights.
-- October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Selecting, hovering, zooming/brushing, linked highlighting, shared navigation & menus/sliders should be working fine.
-- November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts.
+- October 14th - Create two pie charts showing the number of flights delayed at departure as well as at arrival and another pie chart showing the proportion of delayed flights that were diverted (Estimated Time: 15+ hrs).
+- October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights. (Estimated Time: 12+ hrs)
+- October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Selecting, hovering, zooming/brushing, linked highlighting, shared navigation & menus/sliders should be working fine. (Estimated Time: 12+ hrs)
+- November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts. (Estimated Time: 15+ hrs)
 
 ## Future Work
 
