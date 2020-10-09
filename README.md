@@ -60,6 +60,13 @@ From this graph you'll be able to answer questions like:
 3. The third chart is a donut chart showing the airlines with the most delayed flights and the percent share of each carrier with respect to the total delay. Similar charts could be created for airports that stand out in delays w.r.t Origin/Destination.
 
 4. The fourth chart is a stacked bar chart and it shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason.
+From this graph you'll be able to answer questions like:
+   * Which Aircraft Carrier has the highest average departure delay?
+   * Which Aircraft Carrier has the lowest average departure delay? 
+   * For the B6 Carrier, what was the major cause of delay? 
+   * Which type of Delay caused the Max Avg Departure Delay?How much was the delay and for which aircraft was it? 
+   * For each Aircraft Carrier, what are the delays they can reduce so as to increase on-time performance?
+ 
 
 These charts should interact with each other and when we select a particular airline carrier on the donut chart, the stacked bar chart should show the delay reasons for that particular carrier, the pie chart should show whether the delays were greater than or less than 15 mins and if so what was their share of the total delay for that carrier. It should show what percentage of those fights were diverted. Lastly, the simple bar chart should show the top destinations that this airline carrier departs to. Similarly, other charts should also be enabled to interact with each other. 
 
