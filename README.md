@@ -84,11 +84,20 @@ At this point of time, I'm not sure about how to implement donut or pie charts u
 ## Schedule of Deliverables
 
 - October 7th - A simple bar chart showing the "Top 10 Airports with respect to Origin/Departures" has been completed. Also, the stacked bar chart showing the "Average Delay Time and Delay Reason for various airline carriers" has been completed. (Took 12+ hrs)
-- October 14th - Create two pie charts showing the number of flights delayed at departure as well as at arrival and another pie chart showing the proportion of delayed flights that were diverted (Estimated Time: 15+ hrs).
+- October 14th - A pie chart showing the percentage of flights that were delayed at departure by more than 100 mins and less than 100 mins has been completed. (Took 12+ hrs)
+- October 18th - Create a pie chart showing the percentage of flights delayed at arrival and another pie chart showing the proportion of delayed flights that were diverted (Estimated Time: 15+ hrs).
 - October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights. (Estimated Time: 12+ hrs)
 - October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Selecting, hovering, zooming/brushing, linked highlighting, shared navigation & menus/sliders should be working fine. (Estimated Time: 12+ hrs)
 - November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts. (Estimated Time: 15+ hrs)
 
 ## Future Work
 
-The Aircraft codes could be linked with geographical information so that it can be represented on a map and the airports with the most delays can be represented using bubble charts.
+The Airport IATA codes have been linked with geographical information so that it can be represented on a map and the airports with the most delays can be represented using bubble/point charts. It would also be quite interesting to plot connections between airports on a map.
+
+Also, we could look at time of day as correlating with delay. Those might be highly correlated, a scatter plot of those two metrics would bring it out clearly.
+
+Some more ideas related to airline dataset can be found at: https://square.github.io/crossfilter/
+
+I'll try to narrow down the questions to maybe 5 or so to really focus on.
+
+
