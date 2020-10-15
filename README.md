@@ -6,7 +6,7 @@ The data I propose to visualize for my project is [Flight Delay Analysis Dataset
 
 ## Prototypes
 
-I’ve created two proof of concept visualizations of this data. 
+I’ve created three proof of concept visualizations of this data. 
 
 The first one is a stacked bar chart and this chart meant to show the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip as well as when you hover over it.
 
@@ -16,6 +16,10 @@ The second one is a simple bar chart and it shows the Top 15 Airports with respe
 Each Airport is denoted by a different color. The Airports are represented by their IATA Codes.
 
 [![image](images/Image2.PNG)](https://vizhub.com/josvin92/b99f060de75048bda8251559c1d0ff7b)
+
+The third one is a simple pie chart showing the percentage of flights that were delayed by more than 100 mins and less than 100 mins w.r.t. departure.
+
+[![image](images/Image3.PNG)](https://vizhub.com/josvin92/28b570a672b240fd9144a5ad0851f415)
 
 ## Questions & Tasks
 
