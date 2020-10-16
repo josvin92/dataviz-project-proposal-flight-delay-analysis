@@ -23,7 +23,7 @@ The third one is a simple pie chart showing the percentage of flights that were 
 
 The fourth one is a simple pie chart showing the percentage of flights that were delayed by more than 15 mins and less than 15 mins w.r.t. arrival.
 
-[![image](images/Image4.PNG)](https://vizhub.com/josvin92/28b570a672b240fd9144a5ad0851f415)
+[![image](images/Image4.PNG)](https://vizhub.com/josvin92/08c905cf179f41c393e48e63794364bc)
 
 ## Questions & Tasks
 
@@ -92,8 +92,8 @@ At this point of time, I'm not sure about how to implement donut or pie charts u
 ## Schedule of Deliverables
 
 - October 7th - A simple bar chart showing the "Top 10 Airports with respect to Origin/Departures" has been completed. Also, the stacked bar chart showing the "Average Delay Time and Delay Reason for various airline carriers" has been completed. (Took 12+ hrs)
-- October 14th - A pie chart showing the percentage of flights that were delayed at departure by more than 15 mins and less than 15 mins has been completed. (Took 12+ hrs)
-- October 18th - Create a pie chart showing the percentage of flights delayed at arrival and another pie chart showing the proportion of delayed flights that were diverted (Estimated Time: 15+ hrs).
+- October 14th - Two pie charts have been completed showing the percentage of flights that were delayed at departure and arrival, by more than 15 mins and less than 15 mins. (Took 24+ hrs)
+- October 18th - Create a pie chart showing the proportion of delayed flights that were diverted (Estimated Time: 12+ hrs).
 - October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights. (Estimated Time: 12+ hrs)
 - October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Selecting, hovering, zooming/brushing, linked highlighting, shared navigation & menus/sliders should be working fine. (Estimated Time: 12+ hrs)
 - November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts. (Estimated Time: 15+ hrs)
