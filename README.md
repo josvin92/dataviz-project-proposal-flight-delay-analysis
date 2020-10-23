@@ -27,19 +27,19 @@ The fourth one is a simple pie chart showing the percentage of flights that were
 
 The fifth one is a simple pie chart showing the percentage of flights delayed w.r.t Departure for each airline.
 
-[![image](images/Image5.PNG)](https://vizhub.com/josvin92/2357ee157bba4cbcade668643d309b8f)
+[![image](images/Image5.JPG)](https://vizhub.com/josvin92/2357ee157bba4cbcade668643d309b8f)
 
 The sixth one is a simple pie chart showing the percentage of flights delayed w.r.t Departure for each origin airport.
 
-[![image](images/Image6.PNG)](https://vizhub.com/josvin92/98ce233cee664b8a814edbe53e912b3f)
+[![image](images/Image6.JPG)](https://vizhub.com/josvin92/98ce233cee664b8a814edbe53e912b3f)
 
 The seventh one is a points on a map chart showing the Major U.S. Airports by Departure Delay. Size of the bubble represents the total delay at that airport.
 
-[![image](images/Image7.PNG)](https://vizhub.com/josvin92/c9d2d93e9dfc447e945adbf90592cf9e)
+[![image](images/Image7.JPG)](https://vizhub.com/josvin92/c9d2d93e9dfc447e945adbf90592cf9e)
 
 The eighth one is a scatter plot showing the Sum Total of Departure Delay for every hour of the day. This will help in analyzing which hours of the day have the most delay.
 
-[![image](images/Image8.PNG)](https://vizhub.com/josvin92/709c8e66bc2e42e5892799de395c335e)
+[![image](images/Image8.JPG)](https://vizhub.com/josvin92/709c8e66bc2e42e5892799de395c335e)
 
 ## Questions & Tasks
 
