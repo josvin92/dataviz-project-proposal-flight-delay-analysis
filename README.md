@@ -27,23 +27,27 @@ The fourth one is a simple pie chart showing the percentage of flights that were
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+The following 5 tasks and questions will majorly drive the visualization and interaction decisions for this project:
+
+ * Which type of Delay caused the Max Avg Departure Delay?How much was the delay and for which aircraft was it? 
+ * The concentration of delay(>15 mins) and non-delay(<15 mins) both on departure('Departure_Delay') and on arrival('Arrival_Delay')? 
+ * What are the Top 15 Airports that have the most number of flights departing to? What is the most popular one and the least popular one among those 15 airports? 
+ * Among the delayed flights which airline/airport had the highest share of the delay w.r.t Total Delay of all flights? 
+ * Do the most delays occur at a particular time of the day and if so which airports does it occur mostly? 
+
+Other tasks and questions that will drive the visualization and interaction decisions for this project are as follows:
 
  * Which Aircraft Carrier has the highest average departure delay?
  * Which Aircraft Carrier has the lowest average departure delay? 
  * For the B6 Carrier, what was the major cause of delay? 
- * Which type of Delay caused the Max Avg Departure Delay?How much was the delay and for which aircraft was it? 
  * For each Aircraft Carrier, what are the delays they can reduce so as to increase on-time performance?
  
- * The concentration of delay(>15 mins) and non-delay(<15 mins) both on departure('Departure_Delay') and on arrival('Arrival_Delay')?
- * The proportion of delayed flights that were diverted?
  * Are delays due to day_of_week and day_of_month?
  * The concentration of delays by 'Departure_Delay'?
  * Which airline has the highest percentage of delayed flights?
  * Which airport in Origin stands out in delays?
  * Which airport in Destination stands out in delays?
 
- * What are the Top 15 Airports that have the most number of flights departing to?
  * How many flights depart to the most popular destination?
  * How many flights depart to the 15th most popular/least popular destination according to this graph?
  * What is the least popular destination from this graph?
@@ -63,7 +67,7 @@ From this graph you'll be able to answer questions like:
     - What is the least popular destination from this graph, 
     - What is the most popular destination from this graph etc.
 
-2. The second sketch shows two pie charts showing the number of flights delayed at departure as well as at arrival. The pie chart is also divided into two slices based on whether the departure was greater than or less than 15 mins. Similar pie chart could show the proportion of delayed flights that were diverted.
+2. The second sketch shows two pie charts showing the number of flights delayed at departure as well as at arrival. The pie chart is also divided into two slices based on whether the departure was greater than or less than 15 mins. 
 
 3. The third chart is a donut chart showing the airlines with the most delayed flights and the percent share of each carrier with respect to the total delay. Similar charts could be created for airports that stand out in delays w.r.t Origin/Destination.
 
@@ -93,13 +97,13 @@ At this point of time, I'm not sure about how to implement donut or pie charts u
 
 - October 7th - A simple bar chart showing the "Top 10 Airports with respect to Origin/Departures" has been completed. Also, the stacked bar chart showing the "Average Delay Time and Delay Reason for various airline carriers" has been completed. (Took 12+ hrs)
 - October 14th - Two pie charts have been completed showing the percentage of flights that were delayed at departure and arrival. The color denotes whether the delay was more than 15 mins or less than 15 mins. The tooltip shows the percentage delay w.r.t total delay of all flights. (Took 24+ hrs)
-- October 21st - Create one donut chart showing the airlines with the most delayed flights and another one for airports with the most delayed flights. Also, create a donut/pie chart showing the proportion of delayed flights that were diverted (Estimated Time: 20+ hrs)
-- October 28th - Combine two or three charts to a single dashboard and enable interaction between those charts. Selecting, hovering, zooming/brushing, linked highlighting, shared navigation & menus/sliders should be working fine. (Estimated Time: 12+ hrs)
+- October 21st - Two donut charts have been completed showing the airlines with the most delayed flights as well as the airports with the most delayed flights. Also, created a points on a map(with size) showing U.S. airports that have the most delays and a scatter plot showing the sum of departure delay for each hour of the day. (Took 24+ hrs)
+- October 28th - Create a histogram from the scatter plot and then combine the map and the histogram to a single view and enable brushing. Interactions on this chart should be working fine. (Estimated Time: 12+ hrs)
 - November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts. (Estimated Time: 15+ hrs)
 
 ## Future Work
 
-The Airport IATA codes have been linked with geographical information so that it can be represented on a map and the airports with the most delays can be represented using bubble/point charts. It would also be quite interesting to plot connections between airports on a map.
+Since we have a map showing all the airports and their total delays, It would be quite interesting to plot connections between airports on a map.
 
 Also, we could look at time of day as correlating with delay. Those might be highly correlated, a scatter plot of those two metrics would bring it out clearly.
 
