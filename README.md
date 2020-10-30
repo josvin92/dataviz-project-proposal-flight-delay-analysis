@@ -37,9 +37,13 @@ The seventh one is a points on a map chart showing the Major U.S. Airports by De
 
 [![image](images/Image7.JPG)](https://vizhub.com/josvin92/c9d2d93e9dfc447e945adbf90592cf9e)
 
-The eighth one is a scatter plot showing the Sum Total of Departure Delay for every hour of the day. This will help in analyzing which hours of the day have the most delay.
+The eighth one is a histogram showing the Sum Total of Departure Delay for every hour of the day. This will help in analyzing which hours of the day have the most delay.
 
-[![image](images/Image8.JPG)](https://vizhub.com/josvin92/709c8e66bc2e42e5892799de395c335e)
+[![image](images/Image9.JPG)](https://vizhub.com/josvin92/a467515b17ba49dcab5e19ac3889a95c)
+
+The ninth one is a combination of the map and the histogram. The names of the city & state are shown on the tooltip when you hover over the data points on the map. The state also gets highlighted when you hover over it. You could also Pan & Zoom the map to view the major airports of specific states. Brushing with React Performance Optimization is included in the histogram linked to the map.
+
+[![image](images/Image10.JPG)](https://vizhub.com/josvin92/84bdfe722e5c485b833f798327f37822)
 
 ## Questions & Tasks
 
@@ -114,17 +118,13 @@ At this point of time, I'm not sure about how to implement donut or pie charts u
 - October 7th - A simple bar chart showing the "Top 10 Airports with respect to Origin/Departures" has been completed. Also, the stacked bar chart showing the "Average Delay Time and Delay Reason for various airline carriers" has been completed. (Took 12+ hrs)
 - October 14th - Two pie charts have been completed showing the percentage of flights that were delayed at departure and arrival. The color denotes whether the delay was more than 15 mins or less than 15 mins. The tooltip shows the percentage delay w.r.t total delay of all flights. (Took 24+ hrs)
 - October 21st - Two donut charts have been completed showing the airlines with the most delayed flights as well as the airports with the most delayed flights. Also, created a points on a map(with size) showing U.S. airports that have the most delays and a scatter plot showing the sum of departure delay for each hour of the day. (Took 24+ hrs)
-- October 28th - Create a histogram from the scatter plot and then combine the map and the histogram to a single view and enable brushing. Interactions on this chart should be working fine. (Estimated Time: 12+ hrs)
-- November 4th - Add the remaining charts to the dashboard and enable interaction between all the charts. (Estimated Time: 15+ hrs)
+- October 28th - Created a histogram from the scatter plot and then combined the map and the histogram to a single view. The names of the city & state are shown on the tooltip when you hover over the data points on the map. The state also gets highlighted when you hover over it. You could also Pan & Zoom the map to view the major airports of specific states. Finally, enabled Brushing with React Performance Optimization for the histogram which is linked to the map. (Estimated Time: 24+ hrs)
+- November 4th - Add the remaining pie and bar charts to another dashboard and enable interaction between all of them. (Estimated Time: 24+ hrs)
 
 ## Future Work
 
 Since we have a map showing all the airports and their total delays, It would be quite interesting to plot connections between airports on a map.
 
-Also, we could look at time of day as correlating with delay. Those might be highly correlated, a scatter plot of those two metrics would bring it out clearly.
-
 Some more ideas related to airline dataset can be found at: https://square.github.io/crossfilter/
-
-I'll try to narrow down the questions to maybe 5 or so to really focus on.
 
 
