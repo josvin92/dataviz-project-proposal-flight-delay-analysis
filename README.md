@@ -110,7 +110,7 @@ Selecting, hovering(tooltip), zooming/brushing, linked highlighting, shared navi
 
 ## Open Questions
 
-At this point of time, I'm not sure about how to implement donut or pie charts using D3.js. 
+None at this point.
 
 
 ## Schedule of Deliverables
