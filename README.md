@@ -161,6 +161,11 @@ Additionally, we could add an interactive color legend or multi-select menu to t
 
 Some more ideas related to airline dataset can be found at: https://square.github.io/crossfilter/
 
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/josvin92/dataviz-project-template-proposal
