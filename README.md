@@ -10,13 +10,12 @@
 * [Data](#Data)  
 * [Built With](#built-with)
 * [Prototypes or Charts](#Prototypes-or-Charts)
-* [Questions and Tasks](#Questions-&-Tasks)
+* [Questions or Tasks](#Questions-or-Tasks)
 * [Sketches](#Sketches)
 * [Ideas for interaction](#Ideas-for-interaction)
 * [Schedule of Deliverables](#schedule-of-deliverables)
 * [Future Work](#Future-Work)
 * [License](#license)
-* [Acknowledgements](#acknowledgements)
 
 ## Data
 
@@ -27,7 +26,7 @@ The data I propose to visualize for my project is [Flight Delay Analysis Dataset
 * [React.js-16.9.0](https://unpkg.com/react@16.9.0/umd/react.production.min.js)
 * [VegaLite-4.16.8](https://vega.github.io/vega-lite/)
 
-## Prototypes/Charts
+## Prototypes or Charts
 
 I’ve created eight proof of concept visualizations/charts and two dashboards of this data. 
 
@@ -83,7 +82,7 @@ The tenth chart is a combination of the simple bar chart, stacked bar chart and 
 [![image](images/Image11.JPG)](https://vizhub.com/josvin92/7427ef74f2e04aa6867d200088e7930a)
 
 
-## Questions & Tasks
+## Questions or Tasks
 
 The following 5 tasks and questions will majorly drive the visualization and interaction decisions for this project:
 
