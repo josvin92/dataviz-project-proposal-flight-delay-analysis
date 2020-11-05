@@ -9,12 +9,12 @@
 
 * [Data](#Data)  
 * [Built With](#built-with)
-* [Prototypes/Charts](#Prototypes/Charts)
-* [Questions & Tasks](#Questions & Tasks)
+* [Prototypes/Charts](#Prototypes-or-Charts)
+* [Questions & Tasks](#Questions-&-Tasks)
 * [Sketches](#Sketches)
-* [Ideas for interaction](#Ideas for interaction)
+* [Ideas for interaction](#Ideas-for-interaction)
 * [Schedule of Deliverables](#schedule-of-deliverables)
-* [Future Work](#Future Work)
+* [Future Work](#Future-Work)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
 
