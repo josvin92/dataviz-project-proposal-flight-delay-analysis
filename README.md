@@ -31,13 +31,7 @@ The data I propose to visualize for my project is [Flight Delay Analysis Dataset
 I’ve created eight proof of concept visualizations/charts and two dashboards of this data. 
 
 ### Stacked Bar Chart
-The first chart is a stacked bar chart which shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip when you hover over it.
-
-The following chart was created using vega-lite api.
-
-[![image](images/Image1.PNG)](https://vizhub.com/josvin92/60cc4bfb0e774b46a8f4f1f1f85f61fc)
-
-This chart below was created using D3.js.
+The first chart is a stacked bar chart which shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip when you hover over it. This chart below was created using D3.js.
 
 [![image](images/Image13.JPG)](https://vizhub.com/josvin92/ab72ee7ffc8d47598939c9d203b649da)
 
