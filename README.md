@@ -32,24 +32,26 @@ I’ve created eight proof of concept visualizations/charts and two dashboards o
 
 ### Stacked Bar Chart
 The first chart is a stacked bar chart which shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip when you hover over it.
-This one is created using vega-lite api.
+
+The following chart was created using vega-lite api.
 
 [![image](images/Image1.PNG)](https://vizhub.com/josvin92/60cc4bfb0e774b46a8f4f1f1f85f61fc)
 
-This one is created using D3.js.
+This chart below was created using D3.js.
 
-[![image](images/Image13.PNG)](https://vizhub.com/josvin92/ab72ee7ffc8d47598939c9d203b649da)
+[![image](images/Image13.JPG)](https://vizhub.com/josvin92/ab72ee7ffc8d47598939c9d203b649da)
 
 ### Simple Bar Chart
 The second chart is a simple bar chart which shows the Top 15 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
 The Airports are represented by their IATA Codes.
-This one is created using vega-lite api.
+
+The following chart was created using vega-lite api.
 
 [![image](images/Image2.PNG)](https://vizhub.com/josvin92/b99f060de75048bda8251559c1d0ff7b)
 
-This one is created using D3.js.
+This chart below was created using D3.js.
 
-[![image](images/Image12.PNG)](https://vizhub.com/josvin92/7119ac584fa841e9a452bc72cb03f733)
+[![image](images/Image12.JPG)](https://vizhub.com/josvin92/7119ac584fa841e9a452bc72cb03f733)
 
 
 ### Pie Chart 1
@@ -155,7 +157,9 @@ Thus, we would be able to answer questions like which airline has the highest de
 
 ## Ideas for interaction
 
-Selecting, hovering(tooltip), zooming/brushing, linked highlighting, shared navigation as well as menus/sliders could be incorporated into the afore mentioned charts so as to provide interaction between the various charts. One example would be brushing or selecting a bunch of airlines showing the average delay and delay reason and the corresponding charts showing which airline had the highest delay and what percentage of that was delayed by less than 15 mins and what percentage was delayed by more than 15 mins as well as what day or month had the maximum delay.
+Selecting, hovering(tooltip), zooming/brushing have been included in the charts/dashboards. One example of brushing is selecting a bunch of bars of the histogram and the corresponding data points getting highlighted on the map.
+
+Additionally, linked highlighting, shared navigation as well as menus/sliders could be incorporated into the afore mentioned charts in the future, so as to provide interaction between the various charts.
 
 ## Schedule of Deliverables
 
@@ -169,6 +173,10 @@ Selecting, hovering(tooltip), zooming/brushing, linked highlighting, shared navi
 
 Since we have a map showing all the airports and their total delays, it would be quite interesting to plot connections between airports on a map.
 Additionally, we could add an interactive color legend or multi-select menu to the stacked bar chart and enable brushing for both the bar charts on the final dashboard. 
+
+One example of brushing that could be done in the future is on selecting a bunch of airlines showing the average delay and delay reason and the corresponding charts showing which airline had the highest delay and what percentage of that was delayed by less than 15 mins and what percentage was delayed by more than 15 mins as well as the share of the total delay for those airlines or airports.
+
+
 
 Some more ideas related to airline dataset can be found at: https://square.github.io/crossfilter/
 
