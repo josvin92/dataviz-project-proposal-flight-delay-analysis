@@ -31,33 +31,33 @@ The data I propose to visualize for my project is [Flight Delay Analysis Dataset
 I’ve created eight proof of concept visualizations/charts and two dashboards of this data. 
 
 ### Stacked Bar Chart
-The first chart is a stacked bar chart and this chart meant to show the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip as well as when you hover over it.
+The first chart is a stacked bar chart which shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip when you hover over it.
 
 [![image](images/Image1.PNG)](https://vizhub.com/josvin92/60cc4bfb0e774b46a8f4f1f1f85f61fc)
 
 ### Simple Bar Chart
-The second chart is a simple bar chart and it shows the Top 15 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
-Each Airport is denoted by a different color. The Airports are represented by their IATA Codes.
+The second chart is a simple bar chart which shows the Top 15 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
+The Airports are represented by their IATA Codes.
 
 [![image](images/Image2.PNG)](https://vizhub.com/josvin92/b99f060de75048bda8251559c1d0ff7b)
 
 ### Pie Chart 1
-The third chart is a simple pie chart showing the percentage of flights that were delayed by more than 15 mins and less than 15 mins w.r.t. departure.
+The third chart is a simple pie chart showing the percentage of flights that were delayed by more than 15 mins and less than 15 mins with respect to departure.
 
 [![image](images/Image3.PNG)](https://vizhub.com/josvin92/28b570a672b240fd9144a5ad0851f415)
 
 ### Pie Chart 2
-The fourth chart is a simple pie chart showing the percentage of flights that were delayed by more than 15 mins and less than 15 mins w.r.t. arrival.
+The fourth chart is a simple pie chart showing the percentage of flights that were delayed by more than 15 mins and less than 15 mins with respect to arrival.
 
 [![image](images/Image4.PNG)](https://vizhub.com/josvin92/08c905cf179f41c393e48e63794364bc)
 
 ### Pie Chart 3
-The fifth chart is a simple pie chart showing the percentage of flights delayed w.r.t Departure for each airline.
+The fifth chart is a simple pie chart showing the percentage of flights delayed with respect to Departure for each airline.
 
 [![image](images/Image5.JPG)](https://vizhub.com/josvin92/2357ee157bba4cbcade668643d309b8f)
 
 ### Pie Chart 4
-The sixth chart is a simple pie chart showing the percentage of flights delayed w.r.t Departure for each origin airport.
+The sixth chart is a simple pie chart showing the percentage of flights delayed with respect to Departure for each origin airport.
 
 [![image](images/Image6.JPG)](https://vizhub.com/josvin92/98ce233cee664b8a814edbe53e912b3f)
 
@@ -72,12 +72,13 @@ The eighth chart is a histogram showing the Sum Total of Departure Delay for eve
 [![image](images/Image9.JPG)](https://vizhub.com/josvin92/a467515b17ba49dcab5e19ac3889a95c)
 
 ### Dashboard of Map and Histogram
-The ninth chart is a combination of the map and the histogram. The names of the city & state are shown on the tooltip when you hover over the data points on the map. The state also gets highlighted when you hover over it. You could also Pan & Zoom the map to view the major airports of specific states. Brushing with React Performance Optimization is included in the histogram linked to the map.
+The ninth chart is a dashboard which is a combination of the map and the histogram. The names of the city & state are shown on the tooltip when you hover over the data points on the map. The state also gets highlighted when you hover over it. You could also Pan & Zoom the map to view the major airports of specific states. Brushing with React Performance Optimization is included in the histogram linked to the map.
 
 [![image](images/Image10.JPG)](https://vizhub.com/josvin92/84bdfe722e5c485b833f798327f37822)
 
 ### Dashboard of Bar Charts and Pie Charts
-The tenth chart is a combination of the simple bar chart, stacked bar chart and the four pie charts. The names of the city & state are shown on the tooltip when you hover over the data points on the map. The state also gets highlighted when you hover over it. You could also Pan & Zoom the map to view the major airports of specific states. Brushing with React Performance Optimization is included in the histogram linked to the map.
+The tenth chart is another dashboard which is a combination of the simple bar chart, stacked bar chart and the four pie charts. 
+The frequency of the flights to each destination, average delay time and delay reason, percentage of flights delayed by 15 mins or more etc. are shown on the tooltip when you hover over the data points on the respective charts.
 
 [![image](images/Image11.JPG)](https://vizhub.com/josvin92/7427ef74f2e04aa6867d200088e7930a)
 
