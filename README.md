@@ -9,6 +9,20 @@
 
 The data I propose to visualize for my project is [Flight Delay Analysis Dataset](https://gist.github.com/josvin92/9a6b89cb9365b1042d6648fc584c3198)
 
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Installation](#installation)
+* [Charts](#charts)
+* [Complete Tasks](#complete-tasks)
+* [Contributing](#contributing)
+* [Schedule of Deliverables](#schedule-of-deliverables)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
 ## Prototypes
 
 I’ve created eight proof of concept visualizations of this data. 
@@ -131,5 +145,22 @@ None at this point.
 Since we have a map showing all the airports and their total delays, It would be quite interesting to plot connections between airports on a map.
 
 Some more ideas related to airline dataset can be found at: https://square.github.io/crossfilter/
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/josvin92/dataviz-project-template-proposal
+[contributors-url]: https://github.com/josvin92/dataviz-project-template-proposal/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/josvin92/dataviz-project-template-proposal
+[forks-url]: https://github.com/josvin92/dataviz-project-template-proposal/network/members
+
+[issues-shield]: https://img.shields.io/github/issues/josvin92/dataviz-project-template-proposal
+[issues-url]: https://github.com/josvin92/dataviz-project-template-proposal/issues
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/josvin-john/
+
+
+
 
 
