@@ -155,8 +155,8 @@ Selecting, hovering(tooltip), zooming/brushing, linked highlighting, shared navi
 
 ## Future Work
 
-Since we have a map showing all the airports and their total delays, It would be quite interesting to plot connections between airports on a map.
-Also, we could add an interactive color legend or multi-select menu to the stacked bar chart and enable brushing for both the bar charts. 
+Since we have a map showing all the airports and their total delays, it would be quite interesting to plot connections between airports on a map.
+Additionally, we could add an interactive color legend or multi-select menu to the stacked bar chart and enable brushing for both the bar charts on the final dashboard. 
 
 Some more ideas related to airline dataset can be found at: https://square.github.io/crossfilter/
 
