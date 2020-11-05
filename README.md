@@ -32,14 +32,25 @@ I’ve created eight proof of concept visualizations/charts and two dashboards o
 
 ### Stacked Bar Chart
 The first chart is a stacked bar chart which shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip when you hover over it.
+This one is created using vega-lite api.
 
 [![image](images/Image1.PNG)](https://vizhub.com/josvin92/60cc4bfb0e774b46a8f4f1f1f85f61fc)
+
+This one is created using D3.js.
+
+[![image](images/Image13.PNG)](https://vizhub.com/josvin92/ab72ee7ffc8d47598939c9d203b649da)
 
 ### Simple Bar Chart
 The second chart is a simple bar chart which shows the Top 15 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
 The Airports are represented by their IATA Codes.
+This one is created using vega-lite api.
 
 [![image](images/Image2.PNG)](https://vizhub.com/josvin92/b99f060de75048bda8251559c1d0ff7b)
+
+This one is created using D3.js.
+
+[![image](images/Image12.PNG)](https://vizhub.com/josvin92/7119ac584fa841e9a452bc72cb03f733)
+
 
 ### Pie Chart 1
 The third chart is a simple pie chart showing the percentage of flights that were delayed by more than 15 mins and less than 15 mins with respect to departure.
