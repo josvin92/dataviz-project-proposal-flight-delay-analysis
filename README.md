@@ -9,8 +9,8 @@
 
 * [Data](#Data)  
 * [Built With](#built-with)
-* [Prototypes/Charts](#Prototypes-or-Charts)
-* [Questions & Tasks](#Questions-&-Tasks)
+* [Prototypes or Charts](#Prototypes-or-Charts)
+* [Questions and Tasks](#Questions-&-Tasks)
 * [Sketches](#Sketches)
 * [Ideas for interaction](#Ideas-for-interaction)
 * [Schedule of Deliverables](#schedule-of-deliverables)
