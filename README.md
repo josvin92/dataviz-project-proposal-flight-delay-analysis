@@ -14,6 +14,7 @@
 * [Sketches](#Sketches)
 * [Ideas for interaction](#Ideas-for-interaction)
 * [Schedule of Deliverables](#schedule-of-deliverables)
+* [Portfolio Video](# Portfolio Video)
 * [Future Work](#Future-Work)
 * [License](#license)
 
@@ -159,6 +160,10 @@ Additionally, linked highlighting, shared navigation as well as menus/sliders co
 - October 21st - Two donut charts have been completed showing the airlines with the most delayed flights as well as the airports with the most delayed flights. Also, created a points on a map(with size) showing U.S. airports that have the most delays and a scatter plot showing the sum of departure delay for each hour of the day.
 - October 28th - Created a histogram from the scatter plot and then combined the map and the histogram to a single view. The names of the city & state are shown on the tooltip when you hover over the data points on the map. The state also gets highlighted when you hover over it. You could also Pan & Zoom the map to view the major airports of specific states. Finally, enabled Brushing with React Performance Optimization for the histogram which is linked to the map.
 - November 4th - Converted vega-lite charts to D3 and combined the bar chart, stacked bar chart as well as the remaining pie charts to a single dashboard.
+
+## Portfolio Video
+
+https://youtu.be/JHNrhwR6SDQ
 
 ## Future Work
 
