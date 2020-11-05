@@ -94,7 +94,7 @@ The frequency of the flights to each destination, average delay time and delay r
 
 The following 5 tasks and questions will majorly drive the visualization and interaction decisions for this project:
 
- * Which type of Delay caused the Max Avg Departure Delay?How much was the delay and for which aircraft was it? 
+ * Which type of Delay caused the Max Avg Departure Delay?How much was the delay and for which airline was it? 
  * The concentration of delay(>15 mins) and non-delay(<15 mins) both on departure('Departure_Delay') and on arrival('Arrival_Delay')? 
  * What are the Top 15 Airports that have the most number of flights departing to? What is the most popular one and the least popular one among those 15 airports? 
  * Among the delayed flights which airline/airport had the highest share of the delay w.r.t Total Delay of all flights? 
@@ -144,10 +144,7 @@ From this graph you'll be able to answer questions like:
    * Which type of Delay caused the Max Avg Departure Delay?How much was the delay and for which aircraft was it? 
    * For each Aircraft Carrier, what are the delays they can reduce so as to increase on-time performance?
  
-
-These charts should interact with each other and when we select a particular airline carrier on the donut chart, the stacked bar chart should show the delay reasons for that particular carrier, the pie chart should show whether the delays were greater than or less than 15 mins and if so what was their share of the total delay for that carrier. It should show what percentage of those fights were diverted. Lastly, the simple bar chart should show the top destinations that this airline carrier departs to. Similarly, other charts should also be enabled to interact with each other. 
-
-Thus, we would be able to answer questions like which airline has the highest departure delay and whether most of the delay was less than or greater than 15 mins and what were the reasons for the delay. We could also answer questions like what was the average delay over time for each airline using a time series chart. We could also answer questions like how many of the delayed flights were diverted to other airports and so on.
+Thus, we would be able to answer questions like which airline has the highest departure delay and whether most of the delay was less than or greater than 15 mins and what were the reasons for the delay. 
 
 ## Ideas for interaction
 
@@ -170,7 +167,7 @@ Additionally, we could add an interactive color legend or multi-select menu to t
 
 One example of brushing that could be done in the future is on selecting a bunch of airlines showing the average delay and delay reason and the corresponding charts showing which airline had the highest delay and what percentage of that was delayed by less than 15 mins and what percentage was delayed by more than 15 mins as well as the share of the total delay for those airlines or airports.
 
-
+We could also create a time series chart to figure out the average delay over time for each airline. 
 
 Some more ideas related to airline dataset can be found at: https://square.github.io/crossfilter/
 
