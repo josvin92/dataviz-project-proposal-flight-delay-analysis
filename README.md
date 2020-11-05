@@ -1,20 +1,14 @@
-# Data Visualization Project
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-## Data
-
-The data I propose to visualize for my project is [Flight Delay Analysis Dataset](https://gist.github.com/josvin92/9a6b89cb9365b1042d6648fc584c3198)
+# Data Visualization Project - Flight Delay Analysis
 
 ## Table of Contents
 
+* [Data](#Data)  
 * [Built With](#built-with)
-
-  
 * [Prototypes/Charts](#Prototypes/Charts)
 * [Questions & Tasks](#Questions & Tasks)
 * [Sketches](#Sketches)
@@ -24,9 +18,18 @@ The data I propose to visualize for my project is [Flight Delay Analysis Dataset
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
 
+## Data
+
+The data I propose to visualize for my project is [Flight Delay Analysis Dataset](https://gist.github.com/josvin92/9a6b89cb9365b1042d6648fc584c3198)
+
+## Built With
+* D3.js-5.11.0
+* React.js-16.9.0
+* VegaLite-4.16.8
+
 ## Prototypes/Charts
 
-I’ve created eight proof of concept visualizations of this data. 
+I’ve created eight proof of concept visualizations/charts and two dashboards of this data. 
 
 ### Stacked Bar Chart
 The first one is a stacked bar chart and this chart meant to show the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip as well as when you hover over it.
@@ -77,7 +80,7 @@ The ninth one is a combination of the map and the histogram. The names of the ci
 ### Dashboard of Bar Charts and Pie Charts
 The tenth one is a combination of the simple bar chart, stacked bar chart and the four pie charts. The names of the city & state are shown on the tooltip when you hover over the data points on the map. The state also gets highlighted when you hover over it. You could also Pan & Zoom the map to view the major airports of specific states. Brushing with React Performance Optimization is included in the histogram linked to the map.
 
-[![image](images/Image10.JPG)](https://vizhub.com/josvin92/84bdfe722e5c485b833f798327f37822)
+[![image](images/Image11.JPG)](https://vizhub.com/josvin92/7427ef74f2e04aa6867d200088e7930a)
 
 
 ## Questions & Tasks
