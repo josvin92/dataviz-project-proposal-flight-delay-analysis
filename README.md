@@ -14,7 +14,7 @@
 * [Sketches](#Sketches)
 * [Ideas for interaction](#Ideas-for-interaction)
 * [Schedule of Deliverables](#schedule-of-deliverables)
-* [Portfolio Video](#Portfolio Video)
+* [Portfolio Video](#Portfolio-Video)
 * [Future Work](#Future-Work)
 * [License](#license)
 
