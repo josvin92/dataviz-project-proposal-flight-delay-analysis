@@ -163,7 +163,7 @@ Additionally, linked highlighting, shared navigation as well as menus/sliders co
 
 ## Portfolio Video
 
-https://youtu.be/JHNrhwR6SDQ
+[![Flight Delay Analysis](https://img.youtube.com/vi/JHNrhwR6SDQ/0.jpg)](https://youtu.be/JHNrhwR6SDQ)
 
 ## Future Work
 
