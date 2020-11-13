@@ -179,7 +179,7 @@ Some more ideas related to airline dataset can be found at: https://square.githu
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` [LICENSE](https://github.com/josvin92/dataviz-project-proposal-flight-delay-analysis/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/josvin92/dataviz-project-proposal-flight-delay-analysis/blob/master/LICENSE) for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
