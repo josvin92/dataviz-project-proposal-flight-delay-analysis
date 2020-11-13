@@ -2,6 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![license][license-shield]][license-url]
 
 # Data Visualization Project - Flight Delay Analysis
 
@@ -178,7 +179,7 @@ Some more ideas related to airline dataset can be found at: https://square.githu
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` [LICENSE](../LICENSE) for more information.
+Distributed under the MIT License. See `LICENSE` [![license](https://github.com/josvin92/dataviz-project-proposal-flight-delay-analysis/blob/master/LICENSE)] for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -195,7 +196,8 @@ Distributed under the MIT License. See `LICENSE` [LICENSE](../LICENSE) for more 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/josvin-john/
 
-
+[license-shield]: https://img.shields.io/github/license/josvin92/dataviz-project-template-proposal.svg?style=flat-square
+[license-url]: https://github.com/josvin92/dataviz-project-proposal-flight-delay-analysis/blob/master/LICENSE
 
 
 
