@@ -178,7 +178,7 @@ Some more ideas related to airline dataset can be found at: https://square.githu
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` [LICENSE](../LICENSE) for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
