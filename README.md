@@ -21,7 +21,7 @@
 
 ## Data
 
-The data I propose to visualize for my project is [Flight Delay Analysis Dataset](https://gist.github.com/josvin92/9a6b89cb9365b1042d6648fc584c3198)
+The data I propose to visualize for my project is [Flight Delay Analysis Dataset](https://gist.github.com/josvinjohn/9a6b89cb9365b1042d6648fc584c3198)
 
 ## Built With
 * [D3.js-5.11.0](https://unpkg.com/d3@5.11.0/dist/d3.min.js)
@@ -35,7 +35,7 @@ I’ve created eight proof of concept visualizations/charts and two dashboards o
 ### Stacked Bar Chart
 The first chart is a stacked bar chart which shows the "Average Delay Time and Delay Reason for various airline carriers". The color denotes the delay reason. The Delay Reason and the Avg Delay Time for each airline are shown on the tooltip when you hover over it. This chart below was created using D3.js.
 
-[![image](images/Image13.JPG)](https://vizhub.com/josvin92/ab72ee7ffc8d47598939c9d203b649da)
+[![image](images/Image13.JPG)](https://vizhub.com/josvinjohn/ab72ee7ffc8d47598939c9d203b649da)
 
 ### Simple Bar Chart
 The second chart is a simple bar chart which shows the Top 15 Airports with respect to Departures sorted by the number of departures to each airport in descending order.
@@ -43,53 +43,53 @@ The Airports are represented by their IATA Codes.
 
 The following chart was created using vega-lite api.
 
-[![image](images/Image2.PNG)](https://vizhub.com/josvin92/b99f060de75048bda8251559c1d0ff7b)
+[![image](images/Image2.PNG)](https://vizhub.com/josvinjohn/b99f060de75048bda8251559c1d0ff7b)
 
 This chart below was created using D3.js.
 
-[![image](images/Image12.JPG)](https://vizhub.com/josvin92/7119ac584fa841e9a452bc72cb03f733)
+[![image](images/Image12.JPG)](https://vizhub.com/josvinjohn/7119ac584fa841e9a452bc72cb03f733)
 
 
 ### Pie Chart 1
 The third chart is a simple pie chart showing the percentage of flights that were delayed by more than 15 mins and less than 15 mins with respect to departure.
 
-[![image](images/Image3.PNG)](https://vizhub.com/josvin92/28b570a672b240fd9144a5ad0851f415)
+[![image](images/Image3.PNG)](https://vizhub.com/josvinjohn/28b570a672b240fd9144a5ad0851f415)
 
 ### Pie Chart 2
 The fourth chart is a simple pie chart showing the percentage of flights that were delayed by more than 15 mins and less than 15 mins with respect to arrival.
 
-[![image](images/Image4.PNG)](https://vizhub.com/josvin92/08c905cf179f41c393e48e63794364bc)
+[![image](images/Image4.PNG)](https://vizhub.com/josvinjohn/08c905cf179f41c393e48e63794364bc)
 
 ### Pie Chart 3
 The fifth chart is a simple pie chart showing the percentage of flights delayed with respect to Departure for each airline.
 
-[![image](images/Image5.JPG)](https://vizhub.com/josvin92/2357ee157bba4cbcade668643d309b8f)
+[![image](images/Image5.JPG)](https://vizhub.com/josvinjohn/2357ee157bba4cbcade668643d309b8f)
 
 ### Pie Chart 4
 The sixth chart is a simple pie chart showing the percentage of flights delayed with respect to Departure for each origin airport.
 
-[![image](images/Image6.JPG)](https://vizhub.com/josvin92/98ce233cee664b8a814edbe53e912b3f)
+[![image](images/Image6.JPG)](https://vizhub.com/josvinjohn/98ce233cee664b8a814edbe53e912b3f)
 
 ### Points on Map Chart
 The seventh chart is a points on a map chart showing the Major U.S. Airports by Departure Delay. Size of the bubble represents the total delay at that airport.
 
-[![image](images/Image7.JPG)](https://vizhub.com/josvin92/c9d2d93e9dfc447e945adbf90592cf9e)
+[![image](images/Image7.JPG)](https://vizhub.com/josvinjohn/c9d2d93e9dfc447e945adbf90592cf9e)
 
 ### Histogram
 The eighth chart is a histogram showing the Sum Total of Departure Delay for every hour of the day. This will help in analyzing which hours of the day have the most delay.
 
-[![image](images/Image9.JPG)](https://vizhub.com/josvin92/a467515b17ba49dcab5e19ac3889a95c)
+[![image](images/Image9.JPG)](https://vizhub.com/josvinjohn/a467515b17ba49dcab5e19ac3889a95c)
 
 ### Dashboard of Map and Histogram
 The ninth chart is a dashboard which is a combination of the map and the histogram. The names of the city & state are shown on the tooltip when you hover over the data points on the map. The state also gets highlighted when you hover over it. You could also Pan & Zoom the map to view the major airports of specific states. Brushing with React Performance Optimization is included in the histogram linked to the map.
 
-[![image](images/Image10.JPG)](https://vizhub.com/josvin92/84bdfe722e5c485b833f798327f37822)
+[![image](images/Image10.JPG)](https://vizhub.com/josvinjohn/84bdfe722e5c485b833f798327f37822)
 
 ### Dashboard of Bar Charts and Pie Charts
 The tenth chart is another dashboard which is a combination of the simple bar chart, stacked bar chart and the four pie charts. 
 The frequency of the flights to each destination, average delay time and delay reason, percentage of flights delayed by 15 mins or more etc. are shown on the tooltip when you hover over the data points on the respective charts.
 
-[![image](images/Image11.JPG)](https://vizhub.com/josvin92/7427ef74f2e04aa6867d200088e7930a)
+[![image](images/Image11.JPG)](https://vizhub.com/josvinjohn/7427ef74f2e04aa6867d200088e7930a)
 
 
 ## Questions or Tasks
@@ -179,25 +179,22 @@ Some more ideas related to airline dataset can be found at: https://square.githu
 
 ## License
 
-Distributed under the MIT License. See [`LICENSE`](https://github.com/josvin92/dataviz-project-proposal-flight-delay-analysis/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/josvinjohn/dataviz-project-proposal-flight-delay-analysis/blob/master/LICENSE) for more information.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/josvin92/dataviz-project-template-proposal
-[contributors-url]: https://github.com/josvin92/dataviz-project-template-proposal/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/josvinjohn/dataviz-project-template-proposal
+[contributors-url]: https://github.com/josvinjohn/dataviz-project-template-proposal/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/josvin92/dataviz-project-template-proposal
-[forks-url]: https://github.com/josvin92/dataviz-project-template-proposal/network/members
+[forks-shield]: https://img.shields.io/github/forks/josvinjohn/dataviz-project-template-proposal
+[forks-url]: https://github.com/josvinjohn/dataviz-project-template-proposal/network/members
 
-[issues-shield]: https://img.shields.io/github/issues/josvin92/dataviz-project-template-proposal
-[issues-url]: https://github.com/josvin92/dataviz-project-template-proposal/issues
+[issues-shield]: https://img.shields.io/github/issues/josvinjohn/dataviz-project-template-proposal
+[issues-url]: https://github.com/josvinjohn/dataviz-project-template-proposal/issues
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/josvin-john/
 
-[license-shield]: https://img.shields.io/github/license/josvin92/dataviz-project-template-proposal.svg?style=flat-square
-[license-url]: https://github.com/josvin92/dataviz-project-proposal-flight-delay-analysis/blob/master/LICENSE
-
-
-
+[license-shield]: https://img.shields.io/github/license/josvinjohn/dataviz-project-template-proposal.svg?style=flat-square
+[license-url]: https://github.com/josvinjohn/dataviz-project-proposal-flight-delay-analysis/blob/master/LICENSE
