@@ -184,17 +184,17 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/josvinjohn
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/josvinjohn/dataviz-project-template-proposal
-[contributors-url]: https://github.com/josvinjohn/dataviz-project-template-proposal/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/josvinjohn/dataviz-project-proposal-flight-delay-analysis
+[contributors-url]: https://github.com/josvinjohn/dataviz-project-proposal-flight-delay-analysis/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/josvinjohn/dataviz-project-template-proposal
-[forks-url]: https://github.com/josvinjohn/dataviz-project-template-proposal/network/members
+[forks-shield]: https://img.shields.io/github/forks/josvinjohn/dataviz-project-proposal-flight-delay-analysis
+[forks-url]: https://github.com/josvinjohn/dataviz-project-proposal-flight-delay-analysis/network/members
 
-[issues-shield]: https://img.shields.io/github/issues/josvinjohn/dataviz-project-template-proposal
-[issues-url]: https://github.com/josvinjohn/dataviz-project-template-proposal/issues
+[issues-shield]: https://img.shields.io/github/issues/josvinjohn/dataviz-project-proposal-flight-delay-analysis
+[issues-url]: https://github.com/josvinjohn/dataviz-project-proposal-flight-delay-analysis/issues
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/josvin-john/
 
-[license-shield]: https://img.shields.io/github/license/josvinjohn/dataviz-project-template-proposal.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/josvinjohn/dataviz-project-proposal-flight-delay-analysis.svg?style=flat-square
 [license-url]: https://github.com/josvinjohn/dataviz-project-proposal-flight-delay-analysis/blob/master/LICENSE
